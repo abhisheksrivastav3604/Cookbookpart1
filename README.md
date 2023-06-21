@@ -1,4 +1,4 @@
-# Introduction and quickstart of LangChain
+# The LangChain Cookbook - Beginner Guide To 7 Essential Concepts
 
 ## Aim
 
